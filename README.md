@@ -210,6 +210,7 @@ Customer Behavior Dashboard.pbix
 
 7. View dashboard
 
+<img width="1234" height="671" alt="Png of Dashboard" src="https://github.com/user-attachments/assets/756e40c6-ab90-4e2e-88cd-1f08315e67a7" />
 
 
 
